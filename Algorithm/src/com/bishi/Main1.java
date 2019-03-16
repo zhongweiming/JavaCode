@@ -1,0 +1,56 @@
+package com.bishi;
+
+import java.util.Scanner;
+
+
+public class Main1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int temp=0;
+		double result=0;
+		Scanner sc = new Scanner(System.in);
+		int n=Integer.parseInt(sc.nextLine());
+		String[] str=(sc.nextLine()).split(" ");
+		int[] num = new int[n];
+		for(int i=0;i<n;i++) {
+			num[i] = Integer.parseInt(str[i]);
+		}
+		quickSort(num,0,n-1);
+		if(n%2==0) {
+			temp=n/2;
+			result=(double)(num[temp-1]+num[temp])/2;
+		}else {
+			temp=(n+1)/2;
+			result=num[temp-1];
+		}
+		System.out.println(result);
+	}
+	public static void quickSort(int[] A,int p,int r) {
+		if(p >= r) {
+			return ;//排完了退出当前递归即可
+		}
+		else {
+			int q = partition(A,p,r);
+			quickSort(A,p,q-1);
+			quickSort(A,q+1,r);
+		}
+	}
+	public static int partition(int[] A,int p,int r) {
+		int x = A[r],i = p-1;
+			for(int j = p;j < r;j++) {
+				if(A[j] <= x) {
+					i++;
+					swap(A,i,j);
+				}
+			}
+			swap(A,i+1,r);
+		return i+1;
+	}
+	public static void swap(int A[],int i,int j) {
+		int temp = A[i];
+		A[i] = A[j];
+		A[j] = temp;
+	}
+
+}

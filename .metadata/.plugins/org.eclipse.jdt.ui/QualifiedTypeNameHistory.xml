@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.sort_algorithm.PriorityQueue"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Outter.Inner"/>
+<fullyQualifiedTypeName name="Outter.SInner"/>
+<fullyQualifiedTypeName name="com.dp.MatrixChain"/>
+<fullyQualifiedTypeName name="com.dp.LCSubSequence"/>
+<fullyQualifiedTypeName name="com.dp.LCSubString"/>
+<fullyQualifiedTypeName name="com.dp.MaxSubArray"/>
+<fullyQualifiedTypeName name="com.greedy.GreedyKnapsack"/>
+<fullyQualifiedTypeName name="com.dp.DpKnapsack01"/>
+<fullyQualifiedTypeName name="com.greedy.SchedulingProblem"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.shortestpaths.SingleSourceShortestPaths.Edge"/>
+<fullyQualifiedTypeName name="com.shortestpaths.SingleSourceShortestPaths"/>
+<fullyQualifiedTypeName name="com.shortestpaths.Edge"/>
+<fullyQualifiedTypeName name="com.shortestpaths.AllSourcesShortestPaths"/>
+<fullyQualifiedTypeName name="com.backtracking.NQueenProblem"/>
+<fullyQualifiedTypeName name="com.backtracking.KnapsackProblem"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="VectorTest"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

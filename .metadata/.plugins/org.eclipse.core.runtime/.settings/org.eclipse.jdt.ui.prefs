@@ -1,0 +1,15 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.sort_algorithm.PriorityQueue"><rhs name\="com.sort_algorithm.PriorityQueue"/></lhs><lhs name\="com.dp.MatrixChain"><rhs name\="com.dp.MatrixChain"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="com.dp.LCSubSequence"><rhs name\="com.dp.LCSubSequence"/></lhs><lhs name\="com.dp.LCSubString"><rhs name\="com.dp.LCSubString"/></lhs><lhs name\="com.dp.MaxSubArray"><rhs name\="com.dp.MaxSubArray"/></lhs><lhs name\="com.greedy.GreedyKnapsack"><rhs name\="com.greedy.GreedyKnapsack"/></lhs><lhs name\="com.dp.DpKnapsack01"><rhs name\="com.dp.DpKnapsack01"/></lhs><lhs name\="com.greedy.SchedulingProblem"><rhs name\="com.greedy.SchedulingProblem"/></lhs><lhs name\="com.shortestpaths.SingleSourceShortestPaths$Edge"><rhs name\="com.shortestpaths.SingleSourceShortestPaths$Edge"/></lhs><lhs name\="com.shortestpaths.SingleSourceShortestPaths"><rhs name\="com.shortestpaths.SingleSourceShortestPaths"/></lhs><lhs name\="com.shortestpaths.AllSourcesShortestPaths"><rhs name\="com.shortestpaths.AllSourcesShortestPaths"/></lhs><lhs name\="com.backtracking.NQueenProblem"><rhs name\="com.backtracking.NQueenProblem"/></lhs><lhs name\="com.backtracking.KnapsackProblem"><rhs name\="com.backtracking.KnapsackProblem"/></lhs><lhs name\="VectorTest"><rhs name\="VectorTest"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=15
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
